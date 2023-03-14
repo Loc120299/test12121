@@ -6,7 +6,7 @@
     "analyze": "nuxt build --analyze",
     "dev": "env-cmd -e local nuxt --port 5207",
     "dev2": "env-cmd -e local nuxt --port 5211",
-    "build": "env-cmd -e local nuxt start --port 5207",
+    "build": "env-cmd -e local nuxt build",
     "build:local": "env-cmd -e local nuxt build",
     "build:dynamics_web": "env-cmd -e dynamics_web nuxt build",
     "build:dynamics_web_atan": "env-cmd -e dynamics_web_atan nuxt build",
