@@ -39,7 +39,8 @@
     "vue-star-rating": "^1.7.0",
     "vue2-filters": "^0.14.0",
     "vuex-map-fields": "^1.4.1",
-    "vuex-persistedstate": "^4.1.0"
+    "vuex-persistedstate": "^4.1.0",
+    "env-cmd":"10.1.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.14.7",
